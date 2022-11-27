@@ -14,4 +14,4 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 ## Credit
 
 - Comrade Lacy, who sent me its collection of original .icns files.
-- HippoStance, [Pencil](https://skfb.ly/6SUAn) for Qt-Designer’s icon, changes were made, licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
+- HippoStance, [Pencil](https://skfb.ly/6SUAn) 3D model for Qt-Designer’s icon, changes were made, licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).

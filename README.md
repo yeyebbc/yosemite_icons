@@ -6,6 +6,19 @@ Icons collection from Mac OS X Yosemite to Catalina. Some of them are my persona
 
 Because why not.
 
+## How to use
+
+#### Finding icons
+
+Currently, use GitHub’s [Go to file](https://github.com/yeyebbc/yosemite_icons/find/master) button to search for icons.  
+Or you could just clone the entire repository.
+
+#### Using icons
+
+1. Open icon in Preview.app, copy it.
+2. Open “Get Info” window from application’s context menu.
+3. Select by clicking the app’s icon to the top left of the Info window. Paste it, done.
+
 ## License
 
 ![CC BY-NC 4.0](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)  

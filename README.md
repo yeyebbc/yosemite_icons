@@ -28,3 +28,4 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 
 - Comrade Lacy, who sent me its collection of original .icns files.
 - HippoStance, [Pencil](https://skfb.ly/6SUAn) 3D model for Qt-Designer’s icon, changes were made, licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
+- Iiro Jäppinen, [MacPass source PSD](https://github.com/MacPass/MacPass/commit/1a095ce1d7c88ad9415f82795665f38599317676)

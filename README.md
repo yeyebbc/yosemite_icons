@@ -15,9 +15,11 @@ Or you could just clone the entire repository.
 
 #### Using icons
 
-1. Open icon in Preview.app, copy it.
+1. Open PNG file in Preview.app, copy it.
 2. Open “Get Info” window from application’s context menu.
-3. Select by clicking the app’s icon to the top left of the Info window. Paste it, done.
+3. Select by clicking the app’s icon to the top left of the “Info” window. Paste it, done.
+
+For `.icns` file, I personally just open it with Preview.app, select the one with highest resolution and click “Export As…” in the context menu and export into PNG format.
 
 ## License
 

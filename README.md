@@ -21,6 +21,10 @@ Or you could just clone the entire repository.
 
 For `.icns` file, I personally just open it with Preview.app, select the one with highest resolution and click “Export As…” in the context menu and export into PNG format.
 
+## Requesting New Icons
+
+[Simply open an issue](https://github.com/yeyebbc/yosemite_icons/issues/new/choose) and describe it. I will see whether a good original icon can be found or a new one should be designed.
+
 ## License
 
 ![CC BY-NC 4.0](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)  

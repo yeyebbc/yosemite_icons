@@ -28,7 +28,7 @@ For `.icns` file, I personally just open it with Preview.app, select the one wit
 ## License
 
 ![CC BY-NC 4.0](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)  
-Icons created by me is licensed under [Creative Commons Attribution-NonCommercial 4.0 International Public License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). Other icons are under their original license.
+Icons themselves that are created by me are licensed under [Creative Commons Attribution-NonCommercial 4.0 International Public License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). The LOGOs as well as other icons are under their original license, I do not own those.
 
 ## Credit
 
